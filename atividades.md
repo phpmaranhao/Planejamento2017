@@ -6,7 +6,7 @@ As atividades listadas abaixo serão inseridas como piloto nos formatos de event
 PHPub
 ------
 
-Informal e descontraído, o PHPub tem o objetivo de apresentar uma ferramenta ou tema e fomentar a discussão livre sobre o tópico.
+Informal e descontraído, o PHPub tem o objetivo de apresentar uma ferramenta ou tema e fomentar a discussão livre sobre o tópico, além disso o evento proporciona um real ambiente para networking entre os participantes da comunidade PHP Maranhão e outras.
 
 Atividades Estabelecidas: Palestra
 
@@ -15,7 +15,7 @@ Atividades Piloto: Open Space, Duel, Chopp
 Fórum de Profissionais PHP
 --------
 
-Evento anual, o fórum acontece sempre no segundo semestre de cada ano. Apesar de levar o nome PHP, o evneto tem como objetivo reunir a comunidade de profissionais da WEB no geral. Geralmente são tratados temas como: Desenvolvimento web, empreendedorismo, gestão de projetos, metodologias ágeis, desenvolvimento ágil, APIs e demais temas relacionados.
+Evento anual, o fórum acontece sempre no segundo semestre de cada ano. Apesar de levar o nome PHP, o evento tem como objetivo reunir a comunidade de profissionais da WEB no geral. Geralmente são tratados temas como: Desenvolvimento web, empreendedorismo, gestão de projetos, metodologias ágeis, desenvolvimento ágil, APIs e demais temas relacionados.
 
 Atividades Estabelecidas: Palestras, minicursos, treinamentos
 
@@ -29,3 +29,12 @@ Encontro anual que acontece durante o Fórum de Profissionais PHP. Categorizado 
 Atividades Estabelecidas: Não se aplica
 
 Atividades Piloto: Desconferência, Chopp
+
+Palestrei
+---------
+
+O Palestrei é um workshop que acontece duas vezes no ano, geralmente no primeiro e segundo semestre, tendo como objetivo ser um ponta pé inical para formar grandes palestrantes.
+
+Atividades estabelecidas: Workshop
+
+Atividades Piloto: One minute talks
