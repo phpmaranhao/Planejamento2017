@@ -9,6 +9,6 @@ O PHP Maranhão está sempre buscando integração com outras comunidades locais
 | GDG São Luis    	| [Organizadores](https://developers.google.com/groups/chapter/110989914818554163164/)   	|
 | Startup Maranhão 	| Rômulo Martins   	|
 | PyLadies         	| ?                	|
-| Science Pub      	| Lucas Vieira Sousa|
+| Science Pub      	| Lucas Sousa Vieira|
 | Agile Maranhão   	| Evaldo Barbosa   	|
 | AMA Games        	| ?                	|
