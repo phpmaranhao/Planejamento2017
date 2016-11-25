@@ -14,6 +14,6 @@ Calendário de Eventos
 | qua, 09/08 	| A definir 	| A definir   	| A definir 	| PHPPub #50                 	|
 | qua, 13/09 	| A definir 	| A definir   	| A definir 	| PHPPub #51                 	|
 | qua, 11/10 	| A definir 	| A definir   	| A definir 	| PHPPub #52                 	|
-| qui, 09-10/11 | A definir 	| A definir   	| A definir 	| 8.PHP                     	|
+| 09 e 10/11    | DeVry 	| Ver programa 	| A definir 	| 8.PHP                     	|
 | qui, 09/11  	| A definir 	| A definir   	| A definir 	| PHPinga                    	|
 | qua, 13/12 	| A definir 	| A definir   	| A definir 	| PHPPub #53                 	|
