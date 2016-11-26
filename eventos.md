@@ -2,11 +2,11 @@ Calendário de Eventos
 =====================
 
 
-| Data       	| Local     	| Palestrante          	| Tema                      	| Formato                   	|
-|------------	|-----------	|----------------------	|-----------------------------	|---------------------------	|
+| Data       	| Local                    	| Palestrante          	| Tema                      	| Formato                   	|
+|------------	|--------------------------	|----------------------	|-----------------------------	|---------------------------	|
 | qua, 11/01 	| Heineken Shopping da Ilha | Guilherme Oliveira   	| PHP no mundo dos negócios    	| PHPPub #43                 	|
-| qua, 08/02 	| Heineken Shopping da Ilha | Arthur Nascimento    	| A definir                 	| PHPPub #44                 	|
-| qua, 15/03 	| Heineken Shopping da Ilha | A definir         	| A definir                 	| PHPPub #45                 	|
+| qui, 09/02 	| Heineken Shopping da Ilha | Arthur Nascimento    	| A definir                 	| PHPPub #44                 	|
+| qua, 15/03 	| Heineken Shopping da Ilha | Flaviano Honorato    	| A definir                 	| PHPPub #45                 	|
 | qua, 12/04 	| Heineken Shopping da Ilha | A definir         	| A definir                 	| PHPPub #46                 	|
 | qua, 10/05 	| Heineken Shopping da Ilha | A definir         	| A definir                 	| PHPPub #47                 	|
 | qua, 14/06 	| Heineken Shopping da Ilha | A definir         	| A definir                 	| PHPPub #48                 	|
