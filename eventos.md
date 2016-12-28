@@ -9,7 +9,7 @@ Calendário de Eventos
 | sab, 08/04 | SpaceHub                  | Ricardo Coelho e Evaldo Barbosa | Workshop for talkers      | Palestrei  |
 | qua, 12/04 | Heineken Shopping da Ilha | A definir                       | A definir                 | PHPPub #46 |
 | qua, 10/05 | Heineken Shopping da Ilha | A definir                       | A definir                 | PHPPub #47 |
-| qua, 14/06 | Heineken Shopping da Ilha | A definir                       | A definir                 | PHPPub #48 |
+| qua, 14/06 | Heineken Shopping da Ilha | Elton Minetto                   | A definir                 | PHPPub #48 |
 | qua, 12/07 | Heineken Shopping da Ilha | A definir                       | A definir                 | PHPPub #49 |
 | qua, 09/08 | Heineken Shopping da Ilha | A definir                       | A definir                 | PHPPub #50 |
 | qua, 13/09 | Heineken Shopping da Ilha | A definir                       | A definir                 | PHPPub #51 |
