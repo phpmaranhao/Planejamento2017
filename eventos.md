@@ -6,7 +6,7 @@ Calendário de Eventos
 | qua, 11/01 | Heineken Shopping da Ilha | Guilherme Oliveira              | PHP no mundo dos negócios | PHPPub #43 |
 | qui, 09/02 | Heineken Shopping da Ilha | Arthur Nascimento               | A definir                 | PHPPub #44 |
 | qua, 15/03 | Heineken Shopping da Ilha | Flaviano Honorato               | A definir                 | PHPPub #45 |
-| sab, 08/04 | SpaceHub                  | Ricardo Coelho e Evaldo Barbosa | Workshop for talkers      | Palestrei  |
+| sab, 08/04 | SpaceHub                  | Ricardo Coelho e Evaldo Barbosa | Workshop for speakers     | Palestrei  |
 | qua, 12/04 | Heineken Shopping da Ilha | A definir                       | A definir                 | PHPPub #46 |
 | qua, 10/05 | Heineken Shopping da Ilha | A definir                       | A definir                 | PHPPub #47 |
 | qua, 14/06 | Heineken Shopping da Ilha | Elton Minetto                   | A definir                 | PHPPub #48 |
