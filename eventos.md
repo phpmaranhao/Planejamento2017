@@ -3,7 +3,7 @@ Calendário de Eventos
 
 | Data       | Local                     | Palestrante                     | Tema                      | Formato    |
 |------------|---------------------------|---------------------------------|---------------------------|------------|
-| qua, 11/01 | Heineken Shopping da Ilha | Guilherme Oliveira              | PHP no mundo dos negócios | PHPPub #43 |
+| qua, 18/01 | Heineken Shopping da Ilha | Antonio Carlos Rabelo           | A definir                 | PHPPub #43 |
 | qui, 09/02 | Heineken Shopping da Ilha | Arthur Nascimento               | A definir                 | PHPPub #44 |
 | qua, 15/03 | Heineken Shopping da Ilha | Flaviano Honorato               | A definir                 | PHPPub #45 |
 | sab, 08/04 | SpaceHub                  | Ricardo Coelho e Evaldo Barbosa | Workshop for talkers      | Palestrei  |
