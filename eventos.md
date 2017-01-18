@@ -14,7 +14,7 @@ Calendário de Eventos
 | qua, 09/08 | Heineken Shopping da Ilha | A definir                       | A definir                    | PHPPub #50 |
 | qua, 13/09 | Heineken Shopping da Ilha | A definir                       | A definir                    | PHPPub #51 |
 | qua, 11/10 | Heineken Shopping da Ilha | A definir                       | A definir                    | PHPPub #52 |
-| sab, 08/11 | Dery                  | Ricardo Coelho e Evaldo Barbosa | Workshop for speakers        | 
+| sab, 08/11 | DeVry                     | Ricardo Coelho e Evaldo Barbosa | Workshop for speakers        | Palestrei  |
 | 09 e 10/11 | DeVry                     | Ver programa                    | A definir                    | 8.PHP      |
 | qui, 09/11 | Heineken Shopping da Ilha | A definir                       | A definir                    | PHPinga    |
 | qua, 13/12 | Heineken Shopping da Ilha | A definir                       | A definir                    | PHPPub #53 |
