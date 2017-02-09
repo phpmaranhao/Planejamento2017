@@ -4,7 +4,7 @@ Calendário de Eventos
 | Data       | Local                     | Palestrante                     | Tema                         | Formato    |
 |------------|---------------------------|---------------------------------|------------------------------|------------|
 | qua, 18/01 | Heineken Shopping da Ilha | Antonio Carlos Rabelo           | Prototipagem com Cake Bake 3 | PHPPub #43 |
-| qui, 09/02 | Heineken Shopping da Ilha | Arthur Nascimento               | A definir                    | PHPPub #44 |
+| qui, 22/02 | Heineken Shopping da Ilha | Felipe Pimenta                  | A definir                    | PHPPub #44 |
 | qua, 15/03 | Heineken Shopping da Ilha | Flaviano Honorato               | A definir                    | PHPPub #45 |
 | sab, 08/04 | SpaceHub                  | Ricardo Coelho e Evaldo Barbosa | Workshop for speakers        | Palestrei  |
 | qua, 12/04 | Heineken Shopping da Ilha | A definir                       | A definir                    | PHPPub #46 |
