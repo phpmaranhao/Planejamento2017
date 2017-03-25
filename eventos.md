@@ -7,14 +7,14 @@ Calendário de Eventos
 | qua, 22/02 | Heineken Shopping da Ilha | Felipe Pimenta                  | Dados Abertos e Democratização na era Digital | PHPPub #44 |
 | qua, 15/03 | Heineken Shopping da Ilha | Fábio Soares                    | Frameworks - Escrevendo códigos para alguém escrever código | PHPPub #45 |
 | sab, 08/04 | SpaceHub                  | Ricardo Coelho e Evaldo Barbosa | Workshop for speakers        | Palestrei  |
-| qua, 12/04 | Heineken Shopping da Ilha | A definir                       | A definir                    | PHPPub #46 |
-| qua, 10/05 | Heineken Shopping da Ilha | A definir                       | A definir                    | PHPPub #47 |
-| qua, 14/06 | Heineken Shopping da Ilha | Elton Minetto                   | A definir                    | PHPPub #48 |
-| qua, 12/07 | Heineken Shopping da Ilha | A definir                       | A definir                    | PHPPub #49 |
-| qua, 09/08 | Heineken Shopping da Ilha | A definir                       | A definir                    | PHPPub #50 |
-| qua, 13/09 | Heineken Shopping da Ilha | A definir                       | A definir                    | PHPPub #51 |
-| qua, 11/10 | Heineken Shopping da Ilha | A definir                       | A definir                    | PHPPub #52 |
+| qua, 12/04 | Quiosque Chopp Brahma     | Saul dos Santos                 | Bitcoin = ++dinheiro         | PHPPub #46 |
+| qua, 10/05 | Quiosque Chopp Brahma     | A definir                       | A definir                    | PHPPub #47 |
+| qua, 14/06 | Quiosque Chopp Brahma     | Elton Minetto                   | A definir                    | PHPPub #48 |
+| qua, 12/07 | Quiosque Chopp Brahma     | A definir                       | A definir                    | PHPPub #49 |
+| qua, 09/08 | Quiosque Chopp Brahma     | A definir                       | A definir                    | PHPPub #50 |
+| qua, 13/09 | Quiosque Chopp Brahma     | A definir                       | A definir                    | PHPPub #51 |
+| qua, 11/10 | Quiosque Chopp Brahma     | A definir                       | A definir                    | PHPPub #52 |
 | sab, 08/11 | DeVry                     | Ricardo Coelho e Evaldo Barbosa | Workshop for speakers        | Palestrei  |
 | 09 e 10/11 | DeVry                     | Ver programa                    | A definir                    | 8.PHP      |
-| qui, 09/11 | Heineken Shopping da Ilha | A definir                       | A definir                    | PHPinga    |
-| qua, 13/12 | Heineken Shopping da Ilha | A definir                       | A definir                    | PHPPub #53 |
+| qui, 09/11 | Quiosque Chopp Brahma     | A definir                       | A definir                    | PHPinga    |
+| qua, 13/12 | Quiosque Chopp Brahma     | A definir                       | A definir                    | PHPPub #53 |
