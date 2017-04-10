@@ -13,7 +13,7 @@ Calendário de Eventos
 | qua, 12/07 | Quiosque Chopp Brahma     | Guilherme Oliveira              | 5 maneiras para se tornar um desenvolver web de sucesso | PHPPub #49 |
 | qua, 09/08 | Quiosque Chopp Brahma     | Atmos Maciel                    | Introduction to Go Lang for web| PHPPub #50 |
 | qua, 13/09 | Quiosque Chopp Brahma     | Lucas Vieira                    | Zephir: busca por desempenho com PHP | PHPPub #51 |
-| qua, 11/10 | Quiosque Chopp Brahma     | A definir                       | A definir                    | PHPPub #52 |
+| qua, 11/10 | Quiosque Chopp Brahma     | Ana Couto e Francisco Sousa     | Arquitetura do novo app da Rádio Timbira (provisório) | PHPPub #52 |
 | sab, 08/11 | DeVry                     | Ricardo Coelho e Evaldo Barbosa | Workshop for speakers        | Palestrei  |
 | 09 e 10/11 | DeVry                     | Ver programa                    | A definir                    | 8.PHP      |
 | qui, 09/11 | Quiosque Chopp Brahma     | A definir                       | A definir                    | PHPinga    |
