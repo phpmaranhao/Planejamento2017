@@ -8,7 +8,7 @@ Calendário de Eventos
 | qua, 15/03 | Heineken Shopping da Ilha | Fábio Soares                    | Frameworks - Escrevendo códigos para alguém escrever código | PHPPub #45 |
 | sab, 08/04 | SpaceHub                  | Ricardo Coelho e Evaldo Barbosa | Workshop for speakers        | Palestrei  |
 | qua, 12/04 | Quiosque Chopp Brahma     | Saul dos Santos                 | Bitcoin = ++dinheiro         | PHPPub #46 |
-| qua, 10/05 | Quiosque Chopp Brahma     | A definir                       | A definir                    | PHPPub #47 |
+| qua, 10/05 | Quiosque Chopp Brahma     | Michel Cordeiro                       | As 5 disfunções de um time | PHPPub #47 |
 | qua, 14/06 | Quiosque Chopp Brahma     | Elton Minetto                   | A definir                    | PHPPub #48 |
 | qua, 12/07 | Quiosque Chopp Brahma     | Guilherme Oliveira              | 5 maneiras para se tornar um desenvolver web de sucesso | PHPPub #49 |
 | qua, 09/08 | Quiosque Chopp Brahma     | Atmos Maciel                    | Introduction to Go Lang for web| PHPPub #50 |
