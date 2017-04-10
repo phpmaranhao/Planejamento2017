@@ -17,4 +17,4 @@ Calendário de Eventos
 | sab, 08/11 | DeVry                     | Ricardo Coelho e Evaldo Barbosa | Workshop for speakers        | Palestrei  |
 | 09 e 10/11 | DeVry                     | Ver programa                    | A definir                    | 8.PHP      |
 | qui, 09/11 | Quiosque Chopp Brahma     | A definir                       | A definir                    | PHPinga    |
-| qua, 13/12 | Quiosque Chopp Brahma     | A definir                       | A definir                    | PHPPub #53 |
+| qua, 13/12 | Quiosque Chopp Brahma     | Jacson Santos                       | A definir                    | PHPPub #53 |
