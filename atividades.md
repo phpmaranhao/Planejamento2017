@@ -30,10 +30,10 @@ Atividades Estabelecidas: Palestras, Minicursos
 
 Atividades Piloto: One minute talks, Desconferência, Fora da caixa, Stand up meeting
 
-PHPinga
+PHP na Brasa
 -------
 
-Encontro anual que acontece durante o Fórum de Profissionais PHP. Categorizado como encontro, não como evento, o PHPinga tem como objetivo aproximar os participantes dos fórums e os palestrantes em uma conversa descontraída e totalmente informal. Acontece preferencialmente num bar com cerveja gelada e bons tira gostos. =)
+Encontro anual que acontece em meados de novembro e dezembro. Categorizado como encontro, não como evento, o PHP na Brasa tem como objetivo aproximar os participantes dos fórums/comunidade. Acontece preferencialmente num bar ou em algum lugar onde possa se fazer um bom churrasco com uma cerveja bem gelada. =)
 
 Atividades Estabelecidas: Happy Hour
 
