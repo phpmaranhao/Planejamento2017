@@ -12,7 +12,7 @@ Calendário de Eventos
 | qua, 14/06 | Mestre Cervejeiro         | Elton Minetto                   | Memórias das Trincheiras     | PHPub #48 |
 | qua, 12/07 | Quiosque Chopp Brahma     | Guilherme Oliveira              | IOT - Cidades inteligentes   | PHPub #49 |
 | sab, 15/07 | Creative Labs             | Lucas Souza Vieira              | Justificando o NoSQL com ArangoDB | PHPratica |
-| qua, 09/08 | Quiosque Chopp Brahma     | Hiarison Gigante                | A definir | PHPub #50 |
+| qua, 09/08 | Quiosque Chopp Brahma     | Hiarison Gigante                | Para onde estão indo as PSR's? | PHPub #50 |
 | qua, 13/09 | Quiosque Chopp Brahma     | Lucas Souza Vieira              | Zephir: busca por desempenho com PHP | PHPub #51 |
 | qua, 11/10 | Quiosque Chopp Brahma     | Ana Couto e Francisco Sousa     | Arquitetura do novo app da Rádio Timbira (provisório) | PHPub #52 |
 | qui, 09/11 | A definir                 | A definir                       | Workshop for speakers        | Palestrei |
