@@ -1,7 +1,7 @@
 Calendário de Eventos
 =====================
 
-| Data       | Local                     | Palestrante                     | Tema                         | Formato    |
+| Data       | Local                     | Palestrante(s)                  | Tema                         | Formato    |
 |------------|---------------------------|---------------------------------|------------------------------|------------|
 | qua, 18/01 | Heineken Shopping da Ilha | Antonio Carlos Rabelo           | Prototipagem com Cake Bake 3 | PHPub #43 |
 | qua, 22/02 | Heineken Shopping da Ilha | Felipe Pimenta                  | Dados Abertos e Democratização na era Digital | PHPub #44 |
@@ -14,8 +14,7 @@ Calendário de Eventos
 | sab, 15/07 | Creative Labs             | Lucas Souza Vieira              | Justificando o NoSQL com ArangoDB | PHPratica |
 | qua, 09/08 | Quiosque Chopp Brahma     | Hiarison Gigante                | Para onde estão indo as PSR's? | PHPub #50 |
 | qua, 13/09 | Quiosque Chopp Brahma     | Lucas Souza Vieira              | Zephir: busca por desempenho com PHP | PHPub #51 |
-| qua, 11/10 | Quiosque Chopp Brahma     | Ana Couto e Francisco Sousa     | Arquitetura do novo app da Rádio Timbira (provisório) | PHPub #52 |
-| qui, 09/11 | A definir                 | A definir                       | Workshop for speakers        | Palestrei |
-| 10 e 11/11 | A definir                 | A definir                       | A definir                    | Fórum 8.PHP |
-| qui, 30/11 | Quiosque Chopp Brahma     | A definir                       | A definir                    | PHP na Brasa |
+| qua, 11/10 | Quiosque Chopp Brahma     | Ana Couto e Francisco Sousa     | Arquitetura do novo app da Rádio Timbira | PHPub #52 |
+| 17 e 18/11 | Creative Labs(UNDB)       | Comunidade                      | Code Revolution              | Fórum 8PHP |
+| qui, 30/11 | A Definir                 | Não Contém                      | A definir                    | PHP na Brasa |
 | qui, 14/12 | Quiosque Chopp Brahma     | Jacson Santos                   | A definir                    | PHPub #53  |
