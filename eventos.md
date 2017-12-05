@@ -16,5 +16,5 @@ Calendário de Eventos
 | qua, 13/09 | Quiosque Chopp Brahma     | Lucas Souza Vieira              | Zephir: busca por desempenho com PHP | PHPub #51 |
 | qua, 11/10 | Quiosque Chopp Brahma     | Ana Couto e Francisco Sousa     | Arquitetura do novo app da Rádio Timbira | PHPub #52 |
 | 17 e 18/11 | Creative Labs(UNDB)       | Comunidade                      | Code Revolution              | Fórum 8PHP |
-| qui, 30/11 | A Definir                 | Não Contém                      | A definir                    | PHP na Brasa |
-| qui, 14/12 | Quiosque Chopp Brahma     | Jacson Santos                   | A definir                    | PHPub #53  |
+| qua, 13/12 | Quiosque Chopp Brahma     | Nanderson Castro                | Symfony 4                    | PHPub #53  |
+| sab, 16/11 | A Definir                 | Não Contém                      | A definir                    | PHP na Brasa |
