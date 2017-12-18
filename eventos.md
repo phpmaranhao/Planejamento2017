@@ -17,4 +17,3 @@ Calendário de Eventos
 | qua, 11/10 | Quiosque Chopp Brahma     | Ana Couto e Francisco Sousa     | Arquitetura do novo app da Rádio Timbira | PHPub #52 |
 | 17 e 18/11 | Creative Labs(UNDB)       | Comunidade                      | Code Revolution              | Fórum 8PHP |
 | qua, 13/12 | Quiosque Chopp Brahma     | Nanderson Castro                | Symfony 4                    | PHPub #53  |
-| sab, 16/11 | A Definir                 | Não Contém                      | A definir                    | PHP na Brasa |
